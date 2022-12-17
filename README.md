@@ -10,9 +10,6 @@
 [![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 <br>
 
-[![](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)]()
-[![](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)]()
-
 
 ![Matheus Costa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabcost&show_icons=true&theme=github_dark)
 
